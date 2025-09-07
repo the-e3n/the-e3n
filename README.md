@@ -1,5 +1,4 @@
-Hi, I'm Sagar Sharma – a software developer passionate about building scalable backend systems and clean APIs. I specialize in Node.js, NestJS, and have experience working across cloud platforms, microservices architecture, and team collaboration in fast-paced startup environments.<br>🔧 Tech Stack: Golang, Node.js, NestJS, TypeScript, PostgreSQL, Docker, Redis,NATS.io<br>☁️ Cloud & DevOps: Familiar with AWS, CI/CD pipelines, and containerization<br>🧠 Always exploring new tools and best practices in backend engineering<br>📫 Reach me at: ss722980@gmail.com or connect on LinkedIn<br>“Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+Hi, I'm Sagar Sharma – a software developer passionate about building scalable backend systems and clean APIs. I specialize in Node.js, NestJS, and have experience working across cloud platforms, microservices architecture, and team collaboration in fast-paced startup environments.
 ---
 
 ### ⚡ About Me
